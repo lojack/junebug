@@ -1,3 +1,11 @@
+.jumbotron.starburst {
+    background: url(../images/starburst.jpg) no-repeat 0 0;
+    background-size: 100% auto;
+    margin-top: -20px;
+}
+.jumbotron.starburst h1 {
+    color: white;
+}
 /*!
  * Bootstrap v3.2
  *
